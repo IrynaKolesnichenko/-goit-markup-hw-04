@@ -522,7 +522,8 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     column-gap: 24px;
     text-align: left;
     width: 208px;
-    margin-right: 120px;       
+    margin-right: 120px;
+    margin-bottom: 16px;
 }
 
 .social-media-title {
@@ -531,7 +532,6 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
-    margin-bottom: 16px;
 }
 
 .social-list-footer {
