@@ -471,7 +471,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
      /* FOOTER */
 
 
-     .footer-item {
+.footer-item {
     background-color: #2e2f42;
     padding: 100px 0;
     
@@ -480,13 +480,12 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
 .container-footer-list {
     display: flex;
     align-items: baseline;
-       
+    margin-right: 120px;
+    margin-left: 156px;
 }
 
 .container-footer {
    margin-right: 120px;
-   margin-left: 156px;
-      
 }
 
 .footer-part {
